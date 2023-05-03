@@ -1,0 +1,3 @@
+Olá! Meu nome é Danilo Massoni e vamos colocar para rodar um notificador de presença. 
+
+O notificador de presença foi criado para notificar Responsáveis que um estudante está em um ambiente, mas pode ser usado para outros eventos. 
